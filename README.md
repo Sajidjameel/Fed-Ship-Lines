@@ -49,13 +49,17 @@ This project showcases advanced e-commerce features, integrating **BigCommerce�
 ### 10. Content-Rich Blog Section
 - Developed a blog section to engage customers with content such as buying guides, product tips, and industry news, helping drive organic traffic and improving overall SEO.
 
-## Technologies Used
+## 🛠️ Frontend Tech Stack
 
-- **BigCommerce Platform**: Fully utilized BigCommerce for building a scalable and customizable online store.
-- **Stencil Framework**: Used for custom theme development, providing a rich and dynamic user experience.
-- **HTML5 / CSS3 / JavaScript**: Ensured responsive design, custom styling, and interactive elements to enhance the platform's usability.
-- **Google Analytics**: Integrated to track user behavior, conversions, and product performance for data-driven marketing strategies.
-- **Third-Party Apps**: Integrated tools for email marketing, inventory management, and customer engagement.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+
+## 🛠️ Backend Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ## SEO & Performance Optimization
 
@@ -90,7 +94,8 @@ If you're looking to build or optimize an eCommerce platform on **BigCommerce**,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sajid-jameel-721256178/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:sajidjamil.met@gmail.com)
-
+[![Twitter](https://img.shields.io/badge/Twitter-Connect-red?style=for-the-badge&logo=Twitter)](https://x.com/Metavizpro)
+[![Instagram](https://img.shields.io/badge/Instagram-Contact%20Me-pink?style=for-the-badge&logo=Instagram)](https://www.instagram.com/metavizpro/)
 ---
 
 **Hire me** for your next BigCommerce project, and let’s build a feature-rich, high-performing eCommerce store together!
