@@ -64,7 +64,7 @@ This project showcases advanced e-commerce features, integrating **BigCommerceâ€
 ## SEO & Performance Optimization
 
 - **Keyword Optimization**: Thorough keyword research and implementation across the site to boost organic search performance.
-- **Meta Descriptions & Alt Tags**: Applied SEO best practices, including meta descriptions, alt text for images, and clean, readable URL structures.
+- **Meta Descriptions & Alt Tags**: Applied SEO best practices, including meta descriptions, alt text for images, and clean or  readable URL structures.
 - **Site Performance**: Optimized site speed by improving image compression, minifying JavaScript/CSS, and leveraging CDN for faster content delivery.
 
 ## My Role in Development
