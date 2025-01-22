@@ -75,7 +75,7 @@ As the lead developer, I was responsible for:
 - **Full-Stack Development**: From front-end design to back-end customizations, I handled the integration of advanced e-commerce features.
 - **SEO Implementation**: Ensuring the platform is optimized for search engines, applying best practices that drive organic traffic and improve visibility.
 - **Mobile Optimization**: Ensured that the platform delivers a smooth, fast, and intuitive experience on mobile devices, aligning with industry standards.
-- **Third-Party Integrations**: Successfully integrated various apps and tools to extend functionality and enhance the overall customer experience.
+- **Third-Party Integrations**: Successfully integrated various apps and tools to extend functionality and enhance the overall customer experience..
 
 ## Results & Impact
 
