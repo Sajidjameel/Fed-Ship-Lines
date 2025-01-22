@@ -81,7 +81,7 @@ As the lead developer, I was responsible for:
 
 - **Improved User Experience**: Created a fluid, easy-to-navigate website that significantly improved user engagement and reduced cart abandonment rates.
 - **Increased Organic Traffic**: Through focused SEO strategies, the platform experienced a noticeable boost in organic search traffic and visibility.
-- **Enhanced Product Discovery**: The custom filtering and search options provided a significant improvement in product discoverability, enhancing the overall customer shopping journey.
+- **Enhanced Product Discovery**: The custom filtering and search options provided a significant improvement in product discoverability, enhancing the overall customer shopping journey..
 ##  About the Developer
 
 Hello, I’m **Sajid Jamil**, an experienced **BigCommerce developer** with a passion for building high-performing, scalable eCommerce platforms. The **Northline Express** project demonstrates my ability to develop feature-rich solutions that improve the customer journey while achieving business objectives. From secure payments to advanced filtering options, I focus on delivering eCommerce experiences that drive customer satisfaction and business growth.
